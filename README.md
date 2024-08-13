@@ -1,2 +1,2 @@
-# hwid-divison
+# hwid-paradox
 hwid for legacy cheat
